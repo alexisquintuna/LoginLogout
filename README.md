@@ -9,6 +9,6 @@ Afterwards run `npm install` to install all required dependencies.
 
 Also run `npm install @reduxjs/toolkit` to install the Redux JS toolkit package, afterwards
 
-go into your package.json file then to the redux library and delete it, because redux is already included in the toolkit package
+go into your `package.json` file then to the redux library and delete the entry from the file, because redux is already included in the toolkit package
 
 (Be sure you're using node version 16 when running the code `nvm install 16`.)
